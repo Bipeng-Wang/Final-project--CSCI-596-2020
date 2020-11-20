@@ -10,19 +10,18 @@ Build a machine learning model to predict Hammett parameters of substituted benz
 
 A Hammett parameter is a number describing how difficult a benzoic acid molecule dissociats in a certain solution to produce a corresponding benzoate and a proton. The equation of Hammett parameter first comes from experiments, which is given by:
 
- ![](RackMultipart20201120-4-e2aa6k_html_fb42ae124126cbc8.gif)
 
 3. Linear relationship between Hammett parameters and free energy changes
 
- ![](RackMultipart20201120-4-e2aa6k_html_9c21d0533dcbb2b8.gif)
-
-![](RackMultipart20201120-4-e2aa6k_html_8191e34e48350ea8.gif)
+![Figure2](https://user-images.githubusercontent.com/38379489/99776844-51d90380-2ac6-11eb-8312-2b16594af118.png)
 
 The two dissociation reactions above provide free energy changes which are related to equilibrium constants. The relation is given by:
 
+![Figure3](https://user-images.githubusercontent.com/38379489/99776852-54d3f400-2ac6-11eb-860e-f9d79d93fcac.png)
+
 When this equation is substituted into the first equation, the following equation is obtained:
 
-![](RackMultipart20201120-4-e2aa6k_html_adcd58fed2679c6b.gif)
+![Figure4](https://user-images.githubusercontent.com/38379489/99776859-57cee480-2ac6-11eb-8774-16c78ddaaa01.png)
 
 4. Extended-Connectivity Fingerprints (ECFP)
 
@@ -39,4 +38,4 @@ Examples of 16 bits fingerprints:
 
 Random forest is an ensemble machine learning model consisting a user-defined number of decision trees. The results of random forests are obtained from vote (classification) or average (regression).The bootstrap sampling method is used to select subsets of database.
 
-![](RackMultipart20201120-4-e2aa6k_html_eefeb336a48f61ba.gif)
+![Figure5](https://user-images.githubusercontent.com/38379489/99776864-59001180-2ac6-11eb-9674-6668ca75f94e.png)
