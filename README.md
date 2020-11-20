@@ -10,6 +10,7 @@ Build a machine learning model to predict Hammett parameters of substituted benz
 
 A Hammett parameter is a number describing how difficult a benzoic acid molecule dissociats in a certain solution to produce a corresponding benzoate and a proton. The equation of Hammett parameter first comes from experiments, which is given by:
 
+![Figure1](https://user-images.githubusercontent.com/38379489/99776533-d6775200-2ac5-11eb-9556-a9750916c3d8.png)
 
 3. Linear relationship between Hammett parameters and free energy changes
 
