@@ -1,6 +1,6 @@
 # Final-project--CSCI-596-2020
 
-#Predicting Linear Free Energy Relationships in Substituted Benzoic Acid**
+# Predicting Linear Free Energy Relationships in Substituted Benzoic Acid
 
 ## 1. Goal
 
