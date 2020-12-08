@@ -46,5 +46,5 @@ Examples of 16 bits fingerprints:
 ![fig](https://user-images.githubusercontent.com/38379489/101554614-d56e6d80-396b-11eb-9ba6-711af97f24af.png)
 
 #### NN model
-
+![1607471513420](https://user-images.githubusercontent.com/38379489/101555367-63972380-396d-11eb-866a-0a2866561039.png)
 
