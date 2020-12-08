@@ -41,6 +41,8 @@ Examples of 16 bits fingerprints:
 
 ![Figure5](https://user-images.githubusercontent.com/38379489/99776864-59001180-2ac6-11eb-9674-6668ca75f94e.png)
 
-## 6. Result
+## 6. Training result using Random forest
 ![fig](https://user-images.githubusercontent.com/38379489/101554614-d56e6d80-396b-11eb-9ba6-711af97f24af.png)
+
+
 
