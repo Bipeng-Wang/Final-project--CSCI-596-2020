@@ -4,7 +4,7 @@
 
 ## 1. Goal
 
-#### Using machine learning (ML) to predict Hammett parameters of substituted benzoic acid. We first trained the random forest moedel and then the neural network model and found that both of the models are effective here.
+#### Using machine learning (ML) to predict Hammett parameters of substituted benzoic acid. We first trained the random forest model and then compared the result with the neural network model.  
 
 ## 2. What is the Hammett parameter?
 
