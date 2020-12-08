@@ -41,10 +41,10 @@ Examples of 16 bits fingerprints:
 
 ![Figure5](https://user-images.githubusercontent.com/38379489/99776864-59001180-2ac6-11eb-9674-6668ca75f94e.png)
 
-## 6. Training result 
-#### Random forest
+## 6. Training result of random forest
+
 ![fig](https://user-images.githubusercontent.com/38379489/101554614-d56e6d80-396b-11eb-9ba6-711af97f24af.png)
 
-#### Neural network model
+## 7. Comparison with Neural network model
 ![1607471513420](https://user-images.githubusercontent.com/38379489/101555367-63972380-396d-11eb-866a-0a2866561039.png)
 
