@@ -4,7 +4,7 @@
 
 ## 1. Goal
 
-#### Build a machine learning model to predict Hammett parameters of substituted benzoic acid.
+#### Using machine learning (ML) to predict Hammett parameters of substituted benzoic acid.
 
 ## 2. What is the Hammett parameter?
 
